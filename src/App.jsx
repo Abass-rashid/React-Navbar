@@ -1,7 +1,9 @@
+import Navbar from "./Navbar";
+
 const App = () => {
   return ( 
     <>
-    <h1>Abazrashid</h1>
+    <Navbar/>
     </>
    );
 }
